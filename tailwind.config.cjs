@@ -6,11 +6,6 @@ module.exports = {
   ],
   theme: {
     extend: {
-      colors:{
-        'lightGreenishGray': '#CEE0DC',
-        'paradisePink' : 'EF476F',
-        'vividBurgundy' : 'A5243D'
-      }
 
     },
   },
